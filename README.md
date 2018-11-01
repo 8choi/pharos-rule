@@ -19,10 +19,10 @@ https://github.com/ACL4SSR/ACL4SSR
 This is the rule adopted in Pharos mode
 
 
-## see the world rule download link:
+## See the World rule download link:
 https://raw.githubusercontent.com/PharosVip/pharos-rule/master/white.acl
 
-## Back to China 规则下载链接:
+## Back to China download link:
 
 https://raw.githubusercontent.com/PharosVip/pharos-rule/master/backcn.acl
 
