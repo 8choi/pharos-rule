@@ -1,5 +1,5 @@
 
-# pharos-rule - Chinese
+# Pharos-rule - Chinese
 
 这是 Pharos mode 中的 see the world 和 back to china 内置采用的 rule
 
@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/PharosVip/pharos-rule/master/backcn.acl
 
 https://github.com/ACL4SSR/ACL4SSR
 
-# pharos-rule - English
+# Pharos-rule - English
 This is the rule adopted in Pharos mode
 
 
